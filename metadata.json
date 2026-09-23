@@ -1,0 +1,6 @@
+{
+  "name": "Thais Tshirteria & AL Camisaria",
+  "description": "Loja de camisetas masculinas e femininas para adultos. Algodão nobre, modelagem impecável e compra rápida no Mercado Livre, Shopee, Magalu e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
